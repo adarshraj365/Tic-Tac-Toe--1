@@ -1,0 +1,24 @@
+body{
+	background-color: rgb(23, 110, 120);
+}
+
+h1{
+	font-weight: bold;
+	font-size: 3em;
+}
+td{
+	border: 5px solid black;
+	height: 200px;
+	width: 200px;
+	padding: 5px;
+	border-radius: 15px;
+	font-weight: bold;
+	font-size: 8em;
+	text-align: center;
+}
+
+h2{
+	font-size: 2em;
+	text-decoration: underline;
+	color: rgb(222, 11, 204);
+}
